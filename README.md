@@ -24,6 +24,4 @@
 </div>
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JLopes-dev&compact)
-
 ### Apaixonado por programação, pensando no futuro e mudando o presente 🚀
