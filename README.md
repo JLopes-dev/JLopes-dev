@@ -2,7 +2,7 @@
 ### Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/devlopes8/) ㅤ[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_lopes.jp?utm_source=qr&igshid=MzNlNGNkZWQ4Mg==)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JLopes-dev&show_icons=true&theme=COBALT)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 ### Tecnologias
 <div style="display: inline_block">
     <img align="center" alt="HTML5"
