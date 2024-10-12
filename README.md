@@ -1,10 +1,8 @@
 # Olá, eu sou o João Pedro Lopes! 👋
 
-Sou um desenvolvedor apaixonado por tecnologia, sempre buscando aprender e melhorar minhas habilidades. No meu perfil você encontrará projetos e contribuições nas áreas de desenvolvimento web e backend.
-
 ## 🚀 Tecnologias que Uso
 
-Aqui estão algumas das principais tecnologias com as quais trabalho:
+### Aqui estão algumas das principais tecnologias com as quais trabalho:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -19,7 +17,7 @@ Aqui estão algumas das principais tecnologias com as quais trabalho:
 
 ## 🌐 Redes Sociais
 
-Fique à vontade para me seguir ou se conectar comigo nas redes sociais:
+### Fique à vontade para me seguir ou se conectar comigo nas redes sociais:
 
 <p align="left">
   <a href="https://www.linkedin.com/in/jlopesdev" target="_blank">
@@ -36,4 +34,4 @@ Fique à vontade para me seguir ou se conectar comigo nas redes sociais:
 
 ---
 
-Sinta-se à vontade para explorar meus repositórios e ver alguns dos projetos nos quais estou trabalhando!
+### Sinta-se à vontade para explorar meus repositórios e ver alguns dos projetos nos quais estou trabalhando!
